@@ -125,16 +125,6 @@ Tourist safety platform with anomaly detection.
 
 ---
 
-# Achievements
-
-| Recognition | Details |
-|-------------|---------|
-| Reliance Foundation Scholar | 2023–2027 |
-| Best Student Award | Lions Club |
-| Media Strategist | Titanium 2026 |
-| Media Lead | DEVS Technical Society |
-
----
 
 # GitHub Analytics
 
@@ -145,14 +135,6 @@ Tourist safety platform with anomaly detection.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giridharan-E&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Giridharan-E&theme=tokyonight&column=4"/>
 </p>
 
 ---
