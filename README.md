@@ -2,7 +2,6 @@
 
 > **Pre-final Year Computer Science Student | Software Development Engineer Intern | Backend Engineer | AI Applications | Distributed Systems**
 
-> **Note:** The README requested is substantially larger than what can fit in a ChatGPT response. This generated file is a starter template populated from the provided resume and GitHub profile, ready to extend.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7C3AED,100:4F46E5&height=220&section=header&text=Giridharan%20E&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
