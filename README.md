@@ -1,18 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7C3AED,100:4F46E5&height=220&section=header&text=Giridharan%20E&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Giridharan%20E&fontSize=42&fontColor=34D399&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Development+Engineer;Backend+Engineer;AI+Application+Developer;Distributed+Systems+Enthusiast;Always+Learning%2C+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=900&lines=Software+Development+Engineer;Backend+Engineer;AI+Application+Developer;Distributed+Systems+Enthusiast;Always+Learning%2C+Always+Building"/>
 
 <br/>
 
-![Location](https://img.shields.io/badge/Chennai-India-6C63FF?style=for-the-badge)
-![Student](https://img.shields.io/badge/Rajalakshmi_Engineering_College-CS-7C3AED?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-7.89-4F46E5?style=for-the-badge)
+![Location](https://img.shields.io/badge/Chennai-India-30363D?style=for-the-badge)
+![Student](https://img.shields.io/badge/Rajalakshmi_Engineering_College-CS-30363D?style=for-the-badge)
 
-<a href="https://github.com/Giridharan-E"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/giri-dharan-e/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:giridharanelumalai.kp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/Giridharan-E"><img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=34D399"></a>
+<a href="https://www.linkedin.com/in/giri-dharan-e/"><img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=34D399"></a>
+<a href="mailto:giridharanelumalai.kp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=34D399"></a>
 
 </div>
 
@@ -132,10 +131,10 @@ Tourist safety platform with anomaly detection.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Giridharan-E&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Giridharan-E&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Giridharan-E&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=6B7280&text_color=C9D1D9"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Giridharan-E&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giridharan-E&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giridharan-E&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9"/>
 
 </div>
 
@@ -144,7 +143,7 @@ Tourist safety platform with anomaly detection.
 ## Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giridharan-E&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=4F46E5&area=true&area_color=6C63FF&title_color=8B5CF6&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giridharan-E&bg_color=0D1117&color=34D399&line=34D399&point=C9D1D9&area=true&area_color=34D399&title_color=34D399&hide_border=true"/>
 </div>
 
 <br/>
@@ -176,9 +175,9 @@ open_to:
 
 <div align="center">
 
-<a href="https://github.com/Giridharan-E"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/giri-dharan-e/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:giridharanelumalai.kp@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Giridharan-E"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=34D399"></a>
+<a href="https://www.linkedin.com/in/giri-dharan-e/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=34D399"></a>
+<a href="mailto:giridharanelumalai.kp@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=34D399"></a>
 
 </div>
 
@@ -188,6 +187,6 @@ open_to:
 
 *"Build reliable systems that scale, solve real problems, and create lasting impact."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7C3AED,100:4F46E5&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer"/>
 
 </div>
