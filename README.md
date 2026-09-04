@@ -9,6 +9,8 @@
 ![Location](https://img.shields.io/badge/Chennai-India-30363D?style=for-the-badge)
 ![Student](https://img.shields.io/badge/Rajalakshmi_Engineering_College-CS-30363D?style=for-the-badge)
 
+<div align="center">
+
 <a href="https://www.linkedin.com/in/giridharan-e/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=34D399">
 </a>
