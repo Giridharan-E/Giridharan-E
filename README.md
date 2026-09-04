@@ -1,101 +1,27 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on backend systems, AI-powered applications, and real-time software.<br><br>👯 I’m looking to collaborate on open-source projects involving backend engineering, AI, distributed systems, and real-time applications.<br><br>🤝 I’m looking for help with designing scalable architectures and building production-grade distributed systems.<br><br>🌱 I’m currently learning system design, distributed systems, cloud architecture, and advanced backend engineering.<br><br>💬 Ask me about TypeScript, Node.js, FastAPI, PostgreSQL, Redis, REST APIs, WebSockets, AI integrations, and full-stack development.<br><br>⚡ Fun fact: I care about both how software works under the hood and how it is presented to the world.<br>
 
-# Giridharan E
 
-### Software Engineer • Backend Developer • Full-Stack Developer • AI Application Builder
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giridharan-e) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giridharanelumalai.kp@gmail.com) 
 
-Computer Science student building practical software across backend systems, AI applications, real-time systems, and automation.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=giridharan-e&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=giridharan-e&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=giridharan-e&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=giridharan-e&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="https://github.com/Giridharan-E">GitHub</a>
-&nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/giri-dharan-e/">LinkedIn</a>
-&nbsp;•&nbsp;
-<a href="mailto:giridharanelumalai.kp@gmail.com">Email</a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</div>
-
----
-
-## About
-
-I enjoy building practical software that solves real problems.
-
-My primary interests are backend engineering, full-stack development, AI-powered applications, real-time systems, automation, and scalable software.
-
-I work with APIs, databases, integrations, asynchronous workflows, and cloud technologies, while exploring how AI can be applied to build useful products.
-
-Beyond engineering, I work across media, design, video, and digital content, combining technical and creative thinking to build and present ideas effectively.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=giridharan-e&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=giridharan-e&icon=3&color=8)](https://visitcount.itsvg.in)
 
-## Tech Stack
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,c&theme=dark"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
-
-### Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,docker,azure,git,github&theme=dark"/>
-
-### APIs & Engineering
-
-`REST APIs` `API Integration` `Webhooks` `WebSockets` `WebRTC`  
-`Authentication` `HMAC` `SHA-256` `CI/CD` `API Testing` `System Design`
-
----
-
-## Featured Projects
-
-### 🎙️ AI Interview Platform
-
-AI-powered interview platform for dynamic question generation, real-time communication, speech-to-text, candidate evaluation, and feedback generation.
-
-**TypeScript · Node.js · React · LiveKit · Deepgram**
-
----
-
-### 🍽️ Odoo Cafe POS
-
-Full-stack restaurant management system featuring an admin dashboard, kitchen display system, QR-based self-ordering, real-time order tracking, payments, and AI-powered menu recommendations.
-
-**TypeScript · React · Hono · PostgreSQL · WebSockets · Gemini**
-
----
-
-### ♿ ClearComm
-
-Accessible real-time communication platform built with WebRTC, WebSockets, speech-to-text, and text-to-speech.
-
-**React · Node.js · WebRTC · WebSockets**
-
----
-
-### 🧠 AI Answer Script Evaluator
-
-AI-powered system for evaluating descriptive answers using OCR, semantic embeddings, retrieval, and LLM-based analysis.
-
-**Python · FastAPI · React · Groq · Qdrant · PaddleOCR**
-
----
-
-## Engineering Focus
-
-```text
-Backend Engineering
-API Design & Integration
-AI Applications
-Real-Time Systems
-Database Systems
-Automation
-Cloud & Deployment
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
