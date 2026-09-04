@@ -140,45 +140,14 @@ Accessible real-time communication platform using WebRTC, WebSockets, speech-to-
 
 </details>
 
-<br/>
 
-## Experience
-
-**Software Development Engineer Intern — Firstsource**  
-*Feb 2026 – Present*
-
-- Building enterprise HR and recruitment automation platforms using TypeScript, Node.js, Python, FastAPI, and PostgreSQL.
-- Developing backend services with Express.js, Prisma, and FastAPI for data transformation, validation, authentication, and API workflows.
-- Implementing asynchronous workflows using BullMQ, Redis, cron scheduling, and event-driven integrations.
-- Working with third-party integrations, webhooks, API testing, and Azure-based CI/CD deployments.
-
-<br/>
-
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Giridharan-E&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
 
 <img src="https://streak-stats.demolab.com/?user=Giridharan-E&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giridharan-E&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9&langs_count=8"/>
-
 </div>
-
-<br/>
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giridharan-E&bg_color=0D1117&color=34D399&line=34D399&point=C9D1D9&area=true&area_color=34D399&title_color=34D399&hide_border=true"/>
-
-</div>
-
-<br/>
 
 ## Current Focus
 
