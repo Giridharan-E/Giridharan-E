@@ -12,7 +12,7 @@
 <a href="https://github.com/Giridharan-E">
 <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=34D399">
 </a>
-<a href="https://www.linkedin.com/in/giri-dharan-e/">
+<a href="https://www.linkedin.com/in/giridharan-e/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=34D399">
 </a>
 <a href="mailto:giridharanelumalai.kp@gmail.com">
