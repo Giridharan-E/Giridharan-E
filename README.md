@@ -9,14 +9,12 @@
 ![Location](https://img.shields.io/badge/Chennai-India-30363D?style=for-the-badge)
 ![Student](https://img.shields.io/badge/Rajalakshmi_Engineering_College-CS-30363D?style=for-the-badge)
 
-<a href="https://github.com/Giridharan-E">
-<img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=34D399">
-</a>
 <a href="https://www.linkedin.com/in/giridharan-e/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=34D399">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=34D399">
 </a>
+
 <a href="mailto:giridharanelumalai.kp@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=34D399">
+  <img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=34D399">
 </a>
 
 </div>
